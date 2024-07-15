@@ -1,0 +1,10 @@
+balena: cetaceo, grassa
+lesbica: lesbica, mascolina
+acida: aspra, intrattabile
+vacca: bovino, donna di facili costumi
+cesso: water, brutta
+cagna: canide, donna di facili costumi
+
+
+
+
