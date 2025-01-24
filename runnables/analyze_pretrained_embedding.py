@@ -1,8 +1,8 @@
 from pathlib import Path
 
-from components.data_loader import PejorativeLoader
-from components.pipeline import EmbeddingAnalyzer
-from components.processor import TransformerProcessor, DataProcessor, AnchorProcessor
+from code.data_loader import PejorativeLoader
+from code.pipeline import EmbeddingAnalyzer
+from code.processor import TransformerProcessor, DataProcessor, AnchorProcessor
 
 if __name__ == '__main__':
     preloaded_model_name = 'm-polignano-uniba/bert_uncased_L-12_H-768_A-12_italian_alb3rt0'
